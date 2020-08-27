@@ -4,6 +4,8 @@ You can parse multiple resumes/job descriptions at once and check the perfect pr
 
 ## Packages required:
 * Python 3.7+
+* Pandas
+* Matplotlib
 * spaCy library (for anaconda)
     * command for installing: conda install -c conda-forge spacy
 * spaCy english core language package 
