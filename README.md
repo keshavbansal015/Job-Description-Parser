@@ -4,9 +4,8 @@ You can parse multiple resumes/job descriptions at once and check the perfect pr
 
 ## Packages required:
 * Python 3.7+
-* spaCy library
+* spaCy library (for anaconda)
     * command for installing: conda install -c conda-forge spacy
-    (for anaconda)
 * spaCy english core language package 
     * command for downloading: python -m spacy download en_core_web_sm
 * For any confusion you can visit https://spacy.io/ and check out their documentation.
