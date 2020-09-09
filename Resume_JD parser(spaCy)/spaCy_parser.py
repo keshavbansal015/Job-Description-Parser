@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import spacy
-from func.py import *
+from func import *
 from spacy.matcher import PhraseMatcher
 from collections import Counter
 import gc
