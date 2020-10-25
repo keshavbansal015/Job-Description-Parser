@@ -1,0 +1,116 @@
+,Company/Candidate Name,Skill,Sub-skill,Count
+0,Company_1,Maths,Algorithms,1
+1,Company_1,Coding,Algorithms,1
+2,Company_1,ML/AI,Regression,1
+3,Company_1,ML/AI,Random Forest,1
+4,Company_1,DevOps,Spark,2
+5,Company_1,Coding,Python,1
+6,Company_1,WebD,Python,1
+7,Company_1,Coding,R,2
+8,Company_1,DevOps,Tableau,1
+9,Company_1,Business,Tableau,1
+10,Company_1,Analytics,Excel,1
+11,Company_1,Coding,SQL,1
+12,Company_1,DevOps,NoSQL,1
+13,Company_1,DevOps,Hadoop,1
+14,Company_1,Coding,Java,1
+15,Company_1,DevOps,Hive,1
+16,Company_1,DevOps,Google Analytics,1
+17,Company_1,Business,Google Analytics,1
+18,Company_1,DevOps,Site Catalyst,1
+19,Company_1,DevOps,Adwords,1
+20,Company_1,ML/AI,Crimson Hexagon,1
+21,Company_1,DevOps,Facebook Insights,1
+0,Company_2,ML/AI,NLP,1
+1,Company_2,ML/AI,Computer Vision,1
+2,Company_2,Maths,Statistics,1
+3,Company_2,ML/AI,Keras,1
+4,Company_2,Coding,Python,1
+5,Company_2,WebD,Python,1
+6,Company_2,WebD,Javascript,1
+7,Company_2,DevOps,Node.js,1
+8,Company_2,ML/AI,Flask,1
+9,Company_2,Coding,C,1
+10,Company_2,Coding,C++,1
+11,Company_2,DevOps,Docker,1
+0,Company_3,Coding,Python,2
+1,Company_3,WebD,Python,2
+2,Company_3,ML/AI,Keras,1
+3,Company_3,ML/AI,Theano,1
+4,Company_3,ML/AI,TensorFlow,1
+5,Company_3,ML/AI,NLTK,1
+6,Company_3,ML/AI,Entity Recognition,1
+7,Company_3,Coding,PHP,1
+8,Company_3,WebD,PHP,1
+9,Company_3,Coding,HTML,1
+10,Company_3,WebD,HTML,1
+11,Company_3,Coding,CSS,1
+12,Company_3,WebD,CSS,1
+13,Company_3,ML/AI,NLP,1
+0,Company_4,Maths,Statistics,1
+1,Company_4,Coding,R,1
+2,Company_4,Coding,Python,1
+3,Company_4,WebD,Python,1
+0,Company_5,Soft_Skills,Ownership,1
+0,Company_6,Soft_Skills,can-do attitude,1
+1,Company_6,Business,SDLC,1
+2,Company_6,Coding,Data Structures,1
+3,Company_6,Maths,Algorithms,1
+4,Company_6,Coding,Algorithms,1
+5,Company_6,Coding,Python,2
+6,Company_6,WebD,Python,2
+7,Company_6,Coding,Java,1
+0,Company_7,ML/AI,Speech Recognition,1
+1,Company_7,ML/AI,Django,1
+2,Company_7,WebD,Django,1
+3,Company_7,Coding,SQL,2
+0,Company_8,DevOps,Hive,1
+1,Company_8,Coding,Python,1
+2,Company_8,WebD,Python,1
+3,Company_8,DevOps,Spark,1
+4,Company_8,Coding,R,1
+5,Company_8,Coding,Scala,1
+6,Company_8,Business,Marketing,1
+7,Company_8,Coding,SQL,1
+8,Company_8,Analytics,Excel,1
+0,Company_9,Analytics,Excel,1
+1,Company_9,Coding,SQL,1
+2,Company_9,Coding,R,1
+3,Company_9,Coding,Python,1
+4,Company_9,WebD,Python,1
+5,Company_9,DevOps,Tableau,1
+6,Company_9,Business,Tableau,1
+7,Company_9,WebD,client,2
+0,Company_10,Business,performance metrics,1
+1,Company_10,DevOps,Google Analytics,2
+2,Company_10,Business,Google Analytics,2
+3,Company_10,DevOps,Tableau,1
+4,Company_10,Business,Tableau,1
+5,Company_10,DevOps,PowerBI,1
+6,Company_10,Business,MS Excel,1
+7,Company_10,Analytics,Excel,1
+8,Company_10,Coding,SQL,1
+9,Company_10,Coding,Python,1
+10,Company_10,WebD,Python,1
+11,Company_10,Coding,R,1
+0,Company_11,DevOps,UI,1
+1,Company_11,Marketing,Campaign Management,1
+2,Company_11,Coding,SQL,1
+3,Company_11,Coding,Data Structures,1
+4,Company_11,Analytics,Excel,1
+0,Company_12,WebD,js,1
+1,Company_12,WebD,api,1
+0,Company_13,Business,Project Management,1
+1,Company_13,Coding,CSS,1
+2,Company_13,WebD,CSS,1
+3,Company_13,Coding,HTML,1
+4,Company_13,WebD,HTML,1
+0,Company_14,Soft_Skills,SEO,8
+1,Company_14,WebD,client,2
+2,Company_14,DevOps,Google Analytics,1
+3,Company_14,Business,Google Analytics,1
+4,Company_14,Coding,HTML,1
+5,Company_14,WebD,HTML,1
+6,Company_14,Coding,CSS,1
+7,Company_14,WebD,CSS,1
+8,Company_14,Coding,JavaScript,1
