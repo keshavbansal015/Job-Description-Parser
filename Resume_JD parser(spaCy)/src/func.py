@@ -48,14 +48,14 @@ def plot_df(final_database):
 	new_data.index = final_database2['Company/Candidate Name']
 	
 	# Execute the below line if you want to see the JD profile in a csv format
-	new_data.to_csv('../output/Skillset.csv')
+	new_data.to_csv('../output/skillset.csv')
 	
 	plt.rcParams.update({'font.size': 8	})
 	ax = new_data.plot.barh(title="JD/Resume keywords by category", legend=True, figsize=(25,7), stacked=True)
 	labels = []
 	for j in new_data.columns:
 		for i in new_data.index:
-			label = str(new_data.loc[i][j])
+			label = str(j)+": " + str(new_data.loc[i][j])
 			labels.append(label)
 	patches = ax.patches
 	for label, rect in zip(labels, patches):
@@ -65,5 +65,5 @@ def plot_df(final_database):
 			y = rect.get_y()
 			height = rect.get_height()
 			ax.text(x + width/2., y + height/2., label, ha='center', va='center')
-	plt.savefig('../output/Graph.png')
-	# plt.show()
+	plt.savefig('../output/graph.png')
+	plt.show()
